@@ -177,6 +177,6 @@ Sample usage: See checks in service/domain/utility classes.
 
 ## Contact
 
-**Author**: MOHD OWAIS  
-**Email**: md.owais111234@gmail.com  
+**Author**: PRAGATI  
+**Email**: ps320424@gmail.com 
 **Institution**: VIT BHOPAL
